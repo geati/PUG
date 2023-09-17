@@ -1,0 +1,12 @@
+[submodule "PUG-SCEI"]
+	path = SCEI
+	url = https://github.com/geati/PUG-SCEI
+[submodule "PUG-CALORG"]
+	path = CALORG
+	url = https://github.com/geati/PUG-CALORG
+[submodule "PUG-GANDAS"]
+	path = GANDAS
+	url = https://github.com/geati/PUG-GANDAS
+[submodule "PUG-SMAIRE"]
+	path = SMAIRE
+	url = https://github.com/geati/PUG-SMAIRE
